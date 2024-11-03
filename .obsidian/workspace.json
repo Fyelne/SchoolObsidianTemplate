@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "dc28cd86424a5cfe",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb2123708d2da7e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c92a0503c7f6e34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homepage.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8542422725da0fc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "d83ba4bdcbbcb003",
+        "type": "tabs",
+        "dimension": 77.42663656884876,
+        "children": [
+          {
+            "id": "9311837856823baf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c46be88eadd68eed",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      },
+      {
+        "id": "bdd8473e6ffc4fa1",
+        "type": "tabs",
+        "dimension": 22.573363431151243,
+        "children": [
+          {
+            "id": "894e85db1c113e16",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269
+  },
+  "right": {
+    "id": "286c4b5e42ba9464",
+    "type": "split",
+    "children": [
+      {
+        "id": "7de940b4b2cd3dfc",
+        "type": "tabs",
+        "dimension": 78.51772287862514,
+        "children": [
+          {
+            "id": "093e9a282a579516",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Homepage.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Homepage"
+            }
+          },
+          {
+            "id": "cda47dc890ba4a96",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "062cc314ad258c09",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d606457c5ade5691",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-schedule",
+              "state": {},
+              "icon": "layout-list",
+              "title": "GCal Schedule View"
+            }
+          },
+          {
+            "id": "0504ae166d895cd6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "cc441aab64ff8e65",
+        "type": "tabs",
+        "dimension": 21.482277121374864,
+        "children": [
+          {
+            "id": "5309ae016a38a079",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Homepage.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Homepage"
+            }
+          },
+          {
+            "id": "e35dfe2e30f29f99",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Homepage.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Homepage"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 342
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "0c92a0503c7f6e34",
+  "lastOpenFiles": [
+    "2024-11-03.md",
+    "Homepage.md",
+    "intermediate english and writing.md",
+    "introductory statistics.md",
+    "Images/reals.svg",
+    "Images/machine learning icon.png",
+    "Images/newtonian physics icon.png",
+    "Images/south america icon.png",
+    "Images/statistics icon.png",
+    "Images/calculus icon.svg",
+    "Images/ordinary differential equations icon.svg",
+    "Images/general chemistry 2 icon.png",
+    "Images/Python Icon.png",
+    "Images/dna icon.png",
+    "Images",
+    "Untitled",
+    "Untitled.md",
+    "Context/spacesLastSync.log",
+    "Context"
+  ]
+}
